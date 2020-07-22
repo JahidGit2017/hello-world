@@ -10,7 +10,7 @@
     <p>CI: Jenkis, Maven --> Generates Artifacts</p>
     <p>CD: Ansible, Docker, Kubernetes</p>
     <p>Loading from ansible-controller</p>
-    <p>New line added</p>
+    <p>Changing the code for ansible automation</p>
 
     <footer>@copyright - Jahid Arafat, DevOPs Engineer, HarrisWebWorks, USA </footer>
   </body>
