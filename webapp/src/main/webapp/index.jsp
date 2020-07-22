@@ -9,6 +9,7 @@
     <h2>The Main Ingredients: </h2>
     <p>CI: Jenkis, Maven --> Generates Artifacts</p>
     <p>CD: Ansible, Docker, Kubernetes</p>
+    <p>Loading from ansible-controller</p>
 
     <footer>@copyright - Jahid Arafat, DevOPs Engineer, HarrisWebWorks, USA </footer>
   </body>
