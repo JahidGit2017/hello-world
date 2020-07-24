@@ -6,8 +6,8 @@
   </head>
   <body>
     <h1>Welcome to the JA's CI/CD Pipeline</h1>
-    <h2>Ansible playbook automation</h2>
+    <h2>Deploying on Remote Docker Container using Ansible Playbook</h2>
 
-    <footer>@copyright - Jahid Arafat, DevOPs Engineer, HarrisWebWorks, USA </footer>
+    <footer>@copyright - Jahid Arafat, DevOps Engineer, HarrisWebWorks, USA </footer>
   </body>
 </html>
