@@ -6,11 +6,7 @@
   </head>
   <body>
     <h1>Welcome to the JA's CI/CD Pipeline</h1>
-    <h2>The Main Ingredients: </h2>
-    <p>CI: Jenkis, Maven --> Generates Artifacts</p>
-    <p>CD: Ansible, Docker, Kubernetes</p>
-    <p>Loading from ansible-controller</p>
-    <p>Changing the code for ansible automation</p>
+    <h2>Ansible playbook automation</h2>
 
     <footer>@copyright - Jahid Arafat, DevOPs Engineer, HarrisWebWorks, USA </footer>
   </body>
